@@ -1,1 +1,1 @@
-### Link your references in here
+### Swati Mahato, N P Gurao, K Biswas- Accelerated prediction of stacking fault energy in FCC Medium entropy alloys using multilayer perceptron neural networks: Correlation and feature analysis, Modelling and simulation in materials Science engineering (2023)
