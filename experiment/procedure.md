@@ -1,6 +1,6 @@
 Several experimental techniques can be used to determine the stacking fault energy in FCC alloys using TEM and XRD techniques.<br>
 
-### A.	Transmission electron microscopy (TEM) <br>
+**A.	Transmission electron microscopy (TEM)** <br>
 
 TEM is a powerful technique for directly observing the stacking faults at the atomic scale due to its high resolution. The contrast from the stacking faults can be observed directly under the microscope. The separation between the partial dislocations can be measured and then the following equation is employed for the calculation SFE: 
 
@@ -10,7 +10,7 @@ Here, G is the shear modulus, b is the Burgers vector of the partial dislocation
 
 <image src="images\Picture2.png"><br>
 
-### B.	X-ray diffraction  (XRD) <br>
+**B.	X-ray diffraction  (XRD)** <br>
 
 XRD can also be employed to estimate the SFE by analysing the broadening of the diffraction peaks. Sfe is estimated from the stacking fault probability using an empirical relationship. For the determination of SFE using the XRD technique, the Reed and Schramm equation is commonly used for FCC materials:<br>
 
@@ -31,13 +31,13 @@ FeCrN<sub>i99</sub>Si<sub>1</sub>[1].<br>
 
 <image src="images\Picture6.png"><br>
 
-### C.	Thermodynamic Calculations <br>
+**C.	Thermodynamic Calculations** <br>
 
 The calculation of SFE in the FCC matrix can also be done using thermodynamic calculations:<br>
 
 <image src="images\Picture7.png"><br>
 
-here ρ is the molar surface density along <111> direction, ΔG<sup>γ->ε</sup> the Gibbs free energy difference between the FCC and HCP matrix, and σ<sup>γ->ε</sup> is the interfacial energy of the γ/ε interface. The value of ΔG<sup>γ->ε is given by the Olsen-Cohen equation:<br>
+here ρ is the molar surface density along <111> direction, ΔG<sup>γ->ε</sup> the Gibbs free energy difference between the FCC and HCP matrix, and σ<sup>γ->ε</sup> is the interfacial energy of the γ/ε interface. The value of ΔG<sup>γ->ε</sup> is given by the Olsen-Cohen equation:<br>
 
 <image src="images\Picture8.png"><br>
 
