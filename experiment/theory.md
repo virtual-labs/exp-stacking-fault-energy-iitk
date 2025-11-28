@@ -31,8 +31,8 @@ Several experimental techniques can be used to determine the stacking fault ener
 TEM is a powerful technique for directly observing the stacking faults at the atomic scale due to its high resolution. The contrast from the stacking faults can be observed directly under the microscope. The separation between the partial dislocations can be measured and elastic strain energy (γ_(elastic strain)) is given by:
 γ_(elastic strain)=(Gb^2)/2π(1-ν)  ln r/r_0 
 
-were, G is the shear modulus, b is the Burgers vector of the partial dislocations, ν is the Poissons’ ratio and r and r0 are characteristic radii.
-And stacking fault energy () per unit area is given as:
+where, G is the shear modulus, b is the Burgers vector of the partial dislocations, ν is the Poissons’ ratio and r and r0 are characteristic radii.
+And stacking fault energy (γ) per unit area is given as:
 γ=(Gb^2)/2π(1-ν)   1/d
 where d is equilibrium spacing between partial dislocations.
 
@@ -80,6 +80,7 @@ here ρ is the molar surface density along <111> direction, ΔG<sup>γ->ε</sup>
 
 here, x<sub>i</sub> is the molar fraction of components, ΔG<sup>γ->ε</sup><sub>i</sub> the Gibbs free energy difference of FCC and HCP-martensite phase, 
 Ω<sup>γ->ε</sup><sub>ij</sub> the Gibbs free energy difference of FCC and HCP is the binary system. ΔG<sup>γ->ε</sup><sub>mg</sub> is the magnetic contribution to Gibbs free energy difference and ΔG<sup>γ->ε</sup><sub>seg(int)</sub> is the Gibbs free energy due to the segregation of alloying elements.
+
 
 
 
