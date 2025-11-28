@@ -28,12 +28,14 @@ Several experimental techniques can be used to determine the stacking fault ener
 
 **A.	Transmission electron microscopy (TEM)** <br>
 
-TEM is a powerful technique for directly observing the stacking faults at the atomic scale due to its high resolution. The contrast from the stacking faults can be observed directly under the microscope. The separation between the partial dislocations can be measured and elastic strain energy (γ_(elastic strain)) is given by:
-γ_(elastic strain)=(Gb^2)/2π(1-ν)  ln r/r_0 
+TEM is a powerful technique for directly observing the stacking faults at the atomic scale due to its high resolution. The contrast from the stacking faults can be observed directly under the microscope. The separation between the partial dislocations can be measured and elastic strain energy (γ_(elastic strain)) is given by:<br>
+<!-- γ_(elastic strain)=(Gb^2)/2π(1-ν)  ln r/r_0  -->
+<img src="images/img_1.png"><br>
 
 where, G is the shear modulus, b is the Burgers vector of the partial dislocations, ν is the Poissons’ ratio and r and r0 are characteristic radii.
-And stacking fault energy (γ) per unit area is given as:
-γ=(Gb^2)/2π(1-ν)   1/d
+And stacking fault energy (γ) per unit area is given as:<br>
+<!-- γ=(Gb^2)/2π(1-ν)   1/d -->
+<img src="images/img_2.png"><br>
 where d is equilibrium spacing between partial dislocations.
 
  <!--
