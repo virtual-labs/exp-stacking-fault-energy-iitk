@@ -1,0 +1,56 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "Which of the following techniques is used to directly observe stacking faults at the atomic scale in FCC alloys?",
+      "answers": {
+        "a": "X-ray diffraction (XRD)",
+        "b": "Transmission electron microscopy (TEM)",
+        "c": "Thermodynamic calculations",
+        "d": "CALPHAD (CALculation of PHAse Diagram)"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "In the calculation of stacking fault energy (SFE) using X-ray diffraction (XRD), which equation is commonly used for FCC materials?",
+      "answers": {
+        "a": "Scherrer Equation",
+        "b": "Bragg's Law",
+        "c": "Reed and Schramm Equation",
+        "d": "Olsen-Cohen Equation"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What does the term ΔG<sup>γ-&gt;&epsilon;</sup><sub>i</sub> mean in the context of thermodynamic calculations of SFE?",
+      "answers": {
+        "a": "The magnetic contribution to Gibbs free energy",
+        "b": "The interfacial energy of the γ/ε interface",
+        "c": "The Gibbs free energy difference between the FCC and HCP matrix",
+        "d": "The mean square strain in the <111> direction"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    }
+  ]
+}

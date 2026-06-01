@@ -1,0 +1,90 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "What does stacking fault energy (SFE) primarily influence in face-centered cubic (FCC) alloys?",
+      "answers": {
+        "a": "Electrical conductivity",
+        "b": "Mechanical properties",
+        "c": "Magnetic susceptibility",
+        "d": "Thermal conductivity"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What is a stacking fault in the context of crystalline materials?",
+      "answers": {
+        "a": "A defect that introduces an extra atom in the crystal lattice",
+        "b": "A point defect that displaces an atom from its position",
+        "c": "A planar defect that disrupts the stacking sequence of atomic planes",
+        "d": "A volumetric defect that creates a void in the crystal"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which of the following correctly describes the stacking sequence of atomic planes in an ideal FCC crystal structure?",
+      "answers": {
+        "a": "ABABAB...",
+        "b": "ABCABC...",
+        "c": "AABBCC...",
+        "d": "ABCAABC..."
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which factors can influence the stacking fault energy (SFE) of an FCC alloy?",
+      "answers": {
+        "a": "Crystal orientation and grain size",
+        "b": "Composition, temperature, and deformation condition",
+        "c": "Pressure, magnetic field, and crystallite size",
+        "d": "Electron density, crystal structure, and atomic weight"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What is stacking fault energy (SFE) defined as?",
+      "answers": {
+        "a": "The energy required to form a point defect in the crystal",
+        "b": "The energy per unit volume associated with dislocation motion",
+        "c": "The energy per unit area associated with the formation of a stacking fault",
+        "d": "The energy required to break atomic bonds in the crystal lattice"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    }
+  ]
+}
